@@ -1,0 +1,15 @@
+.container {
+    position: relative;
+    display: inline;
+    height: auto;
+}
+
+.deleteButton {
+    display: none;
+}
+
+a:hover .deleteButton {
+    position: absolute;
+    border: dashed 1px green;
+    display: inline;
+}

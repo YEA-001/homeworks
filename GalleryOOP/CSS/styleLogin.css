@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+span {
+    color: red;
+    display: block;
+    text-align: center
+}
+
+label {
+    width: 45%;
+    float: left;
+    text-align: right;
+}
+
+.centeredButton {
+    margin: auto;
+    width: auto;
+    display: block;
+}
